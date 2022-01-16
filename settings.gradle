@@ -1,0 +1,2 @@
+rootProject.name = "shoppi-android"
+include ':app'
